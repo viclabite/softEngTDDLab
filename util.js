@@ -21,7 +21,6 @@ function sortInternObjects(internArr) {
 	});
 }
 
-
 module.exports = {
 	getValueFromWageAndExp: getValueFromWageAndExp,
 	sortInternObjects: sortInternObjects
